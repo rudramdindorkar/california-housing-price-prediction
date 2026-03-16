@@ -24,15 +24,16 @@ Steps performed:
 
 Some features showed **right skewness** in their distribution.
 
-![Histogram](images/histogram.png)
+![Histogram](images/histogram_right_skwed.png)
 
 To correct this, **log transformation** was applied.
+
 
 ### Scatter Plot
 
 Scatter analysis showed that **houses closer to coastal regions tend to have higher prices**.
 
-![Scatter](images/scatter.png)
+![Scatter](images/Scatter_plot.png)
 
 ## Model
 
