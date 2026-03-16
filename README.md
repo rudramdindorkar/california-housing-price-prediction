@@ -33,7 +33,7 @@ To correct this, **log transformation** was applied.
 
 Scatter analysis showed that **houses closer to coastal regions tend to have higher prices**.
 
-![Scatter](images/Scatter_plot.png)
+![Scatter](images/scatter_plot.png)
 
 ## Model
 
